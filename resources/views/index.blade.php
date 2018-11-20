@@ -83,42 +83,38 @@ Salman Sajun - Home
 
                 <div class="row">
 
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
+                    <section class="regular slider">
+                        <div>
+                                <img src="http://placehold.it/100x100?text=1">
+                        </div>
+                        <div>
+                                <img src="http://placehold.it/100x100?text=2">
+                        </div>
+                        <div>
+                                <img src="http://placehold.it/100x100?text=3">
+                        </div>
+                        <div>
+                                <img src="http://placehold.it/100x100?text=4">
+                        </div>
+                        <div>
+                                <img src="http://placehold.it/100x100?text=5">
+                        </div>
+                        <div>
+                                <img src="http://placehold.it/100x100?text=6">
+                        </div>
+                        <div>
+                                <img src="http://placehold.it/100x100?text=7">
+                        </div>
+                        <div>
+                                <img src="http://placehold.it/100x100?text=8">
+                        </div>
+                        <div>
+                                <img src="http://placehold.it/100x100?text=9">
+                        </div>
+                        <div>
+                                <img src="http://placehold.it/100x100?text=10">
+                        </div>
+                      </section>
 
                 </div>
 

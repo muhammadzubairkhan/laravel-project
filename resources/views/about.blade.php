@@ -25,14 +25,15 @@ Salman Sajun - Home
         <div class="row">
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
-                <h4>Salman Sajun Studio is a one stop shop for all your creative visual needs. We specialize in bringing the inanimate to life through a magical blend of stop motiono and live action. We have a hand picked team of creative ninjas.</h4>
+                <p>Salman Sajun Studio is a one stop shop for all your creative visual needs. We specialize in bringing the inanimate to life through a magical blend of stop motiono and live action. We have a hand picked team of creative ninjas.</p>
             </div>
 
-            <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8 text-center">
-                <img src="https://dummyimage.com/260x400/000/fff">
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-center">
+                <img src="https://dummyimage.com/400x400/000/fff">
             </div>
 
-            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 text-center">
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-center">
+                <h3>Our Aim</h3>
                 <p>Our goal is to make the world a colourful, more aesthetically pleasing place where imagination runs wild and creativity drives all content.</p>
             </div>
 
@@ -43,21 +44,68 @@ Salman Sajun - Home
         <div class="row">
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
-
-                <h1>Our Projects</h1>
+                <h3>Our Team</h3>
 
                 <div class="row">
 
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <img src="https://dummyimage.com/260x400/000/fff">
+                    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <span class="profile-pic">
+                                    <img src="https://dummyimage.com/50x50/000/fff">
+                                </span>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <span class="profile-name">
+                                        Salman Sajun
+                                </span>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <span class="profile-designation">
+                                    Creative Director
+                                </span>
+                            </div>
+
                     </div>
 
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <img src="https://dummyimage.com/260x400/000/fff">
+                    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <span class="profile-pic">
+                                    <img src="https://dummyimage.com/50x50/000/fff">
+                                </span>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <span class="profile-name">
+                                    Sarah Oueller
+                                </span>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <span class="profile-designation">
+                                    Art Director
+                                </span>
+                            </div>
+
                     </div>
 
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <img src="https://dummyimage.com/500x300/000/fff">
+                    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <span class="profile-pic">
+                                    <img src="https://dummyimage.com/50x50/000/fff">
+                                </span>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <span class="profile-name">
+                                    You
+                                </span>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <span class="profile-designation">
+                                    External Energy
+                                </span>
+                            </div>
+
                     </div>
 
                 </div>
@@ -65,61 +113,6 @@ Salman Sajun - Home
             </div>
 
         </div>
-
-        <div class="divider"></div>
-
-        <div class="row">
-
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
-
-                <h1>Our Clients</h1>
-
-                <div class="row">
-
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
-                        <img src="https://dummyimage.com/60x60/000/fff">
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-        <div class="divider"></div>
 
     </div>
 
